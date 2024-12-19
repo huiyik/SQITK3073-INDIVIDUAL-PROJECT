@@ -1,5 +1,3 @@
-### functions.py
-# This section contains all the reusable functions used in the application
 import yfinance as yf
 import pandas as pd
 import csv
