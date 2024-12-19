@@ -1,5 +1,3 @@
-### main.py
-# This section is for the main application logic
 from functions import (
     register_user,
     authenticate_user,
